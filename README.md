@@ -6,15 +6,15 @@
 
 *Researching Machine Learning, LLM & AI — Building things for the web and beyond*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jinwoopark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jinwoo-park-9b769a329)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pjw0194)
 
 </div>
 
 ---
 
 ## 🧠 About Me
-
+- 🎓 B.S. Computer Science @ **University of Kansas**
 - 🎓 M.S. Computer Science @ **University of Kansas**
 - 🔬 Research focus: **Machine Learning · LLMs · AI**
 - 💻 Full-stack web & desktop app developer
@@ -54,7 +54,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏛 [Kansas Full Gospel Church — Official Website](https://ksfgc.com)
+### [Kansas Full Gospel Church — Official Website](https://ksfgc.com)
 > Full-stack church website rebuilt from the ground up, replacing the existing outdated site
 
 `Next.js` `TypeScript` `Supabase` `Tailwind CSS` `Vercel`
