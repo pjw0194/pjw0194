@@ -68,8 +68,8 @@
 
 <div align="center">
 
-![Jinwoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Jinwoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pjw0194&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pjw0194layout=compact&theme=dark&hide_border=true)
 
 </div>
 
